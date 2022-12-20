@@ -1,0 +1,28 @@
+header{
+    position: fixed;
+    top: 0;
+    width: 100%;
+    font-family: 'Barlow', sans-serif;
+    font-size: 30px;
+    vertical-align: middle;
+    padding:20px 30px;
+}
+.logo {
+    color: #FA6980;
+    display: inline-block;
+    vertical-align: middle;
+    font-size: 48px;
+    margin-right: 92px;
+}
+nav{
+    vertical-align: middle;
+    display: inline-block;
+}
+nav li{
+    display: inline-block;
+    margin-right: 30px;
+}
+.selfie{
+    display: inline-block;
+
+}
