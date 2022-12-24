@@ -26,3 +26,47 @@ nav li{
     display: inline-block;
 
 }
+section{
+    margin-top: 95px;
+}
+section h2{
+    font-size: 24px;
+    font-family: 'Barlow', sans-serif;
+    padding: 0 140px;
+}
+.container{
+    display: flex;
+    flex-direction: row;
+    justify-content: space-between;
+    margin-top: 40px;
+    padding: 0 140px;
+}
+.box1{
+width: 360px;
+height: 350px;
+position: relative;
+}
+.box1 p {
+    color: #A6ADB4;
+    font-size: 13px;
+}
+.imgtext{
+    position: absolute;
+    top: 30px;
+    left: 40px;
+    color: #ffff;
+    font-family: 'Barlow', sans-serif ;
+    font-size: 16px;
+}
+.timer{
+    display: inline-block;
+    vertical-align: middle;
+}
+.time{
+    display: inline;
+}
+.ptext{
+    margin-top: 60px;
+    margin-left: 30px;
+    justify-content: space-between;
+}
